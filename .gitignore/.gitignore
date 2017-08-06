@@ -1,0 +1,189 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Nanotecnologia</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+			<div id="wrapper">
+					<div id="main">
+						<div class="inner">
+								<header id="header"><h2 align=center>COLEGIO DE BACHILLERES<BR>PLANTEL N°27<BR>
+								CAPACITACION: Informatica</h2>
+
+									<ul class="icons">
+										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon fa-medium"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>
+
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Nanotecnologia</h1>
+											<p>¿Que es la nanotecnologia?</p>
+										</header>
+										<p>La palabra "nanotecnología" es usada extensivamente para definir las ciencias y técnicas que se
+											aplican al un nivel de nanoescala, esto es unas medidas extremadamente pequeñas "nanos" que permiten
+											trabajar y manipular las estructuras moleculares y sus átomos. En síntesis nos llevaría a la posibilidad de fabricar materiales y máquinas a partir del reordenamiento de átomos y moléculas. El desarrollo de esta disciplina se produce a partir de las propuestas de Richard Feynman</p>
+										<ul class="actions">
+											<li><a href="#" class="button big">Mas Informacion</a></li>
+										</ul>
+									</div>
+									<span class="image object">
+										<img src="images/NANOTECNOLOGIA.jpg" alt="" />
+									</span>
+								</section>
+
+								<section>
+									<header class="major">
+										<h2>Campos de la nanotecnologia</h2>
+									</header>
+									<div class="features">
+										<article>
+											<span class="icon fa-diamo"></span>
+											<div class="content">
+												<h3>Medicina</h3>
+												<p>Las aplicaciones de la Nanotecnología en Medicina se denomina Nanomedicina, y dentro de ella tenemos el  desarrollo de nanotransportadores de fármacos a lugares específicos del cuerpo, que pueden ser útiles en el tratamiento del Cáncer u otras enfermedades, </p>
+											</div>
+										</article>
+										<article>
+											<span class="icon fa-paper-plne"></span>
+											<div class="content">
+												<h3>Tecnologia</h3>
+												<p>Las aplicaciones de la Nanotecnología en las tecnologías de la comunicación e informática, comprende el desarrollo de sistemas de almacenamiento de datos de mayor capacidad y menor tamaño,
+												</div>
+										</article>
+										<article>
+											<span class="icon fa-rocet"></span>
+											<div class="content">
+												<h3>Energía</h3>
+												<p>Las aplicaciones de la Nanotecnología en sector energético, tiene relación con la mejora de los sistemas de producción y almacenamiento de energía, en especial aquellas energías limpias y renovables como la energía solar,
+												</div>
+										</article>
+										<article>
+											<span class="icon fa-sgnal"></span>
+											<div class="content">
+												<h3>Medio Ambiente</h3>
+												<p>Las aplicaciones de la Nanotecnología en el medio ambiente, involucran el desarrollo de materiales, energías y procesos no contaminantes, tratamiento de aguas residuales, desanilización de agua, descontaminación de suelos,
+												</div>
+										</article>
+									</div>
+								</section>
+
+								<section>
+									<header class="major">
+										<h2>Imagenes</h2>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/1.jpeg" alt="" /></a>
+											<h3>carbono</h3>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/2.jpeg" alt="" /></a>
+											<h3>Analisis en el ADN</h3>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/3.jpeg" alt="" /></a>
+											<h3>Tecnologias microscopica</h3>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/4.jpeg" alt="" /></a>
+											<h3>Separacion atomica</h3>
+										</article>
+									</div>
+								</section>
+
+						</div>
+					</div>
+
+					<div id="sidebar">
+						<div class="inner">
+
+								<section id="search" class="alt">
+									<img src="images/catodo.jpg" alt="" whidth=150 height=180 >
+
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="inicio.html">inicio</a></li>
+										<li><a href="Caracteristicas.html">Caracteristicas</a></li>
+										<li><a href="Ventajas Desventajas.html">Ventajas Desventajas</a></li>
+										<li>
+											<span class="opener">Universidades</span>
+											<ul>
+												<li><a href="UNAM.html">UNAM</a></li>
+												<li><a href="UDLAP.html">UDLAP</a></li>
+												<li><a href="CCIT.html">CCIT</a></li>
+												<li><a href="UJAT.html">UJAT</a></li>
+											</ul>
+										</li>
+								</ul>
+								</nav>
+
+								<section>
+									<header class="major">
+										<h2>Ultimas Noticias</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/11.jpg" alt="" /></a>
+											<p>Un innovador nanodispositivo para medir la polarización de la luz</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/22.jpg" alt="" /></a>
+											<p>Nuevo paso para el control de la luz con aplicaciones en nanociencia</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/33.jpg" alt="" /></a>
+											<p>Nanotecnología para acelerar el endurecimiento del hormigón</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">Más</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<header class="major">
+										<h3>Datos Adicionales</h3>
+									</header>
+									<header class="major">
+										<ul class="contact">
+										<li class="fa-envelope-o"><a href="#">nano@gmail.com</a></li>
+										<li class="fa-home">colegio de bachilleres plantel N°27</li>
+									</ul>
+								</section>
+
+								<footer id="footer">
+									<p >Proyecto Final<br>Autor:Samuel Gordillo</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
